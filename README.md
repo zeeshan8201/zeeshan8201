@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/MuhammadZeeshanNazim/MuhammadZeeshanNazim/blob/main/Zeeshan.png)
+![MasterHead](https://github.com/zeeshan8201/zeeshan8201/blob/main/Zeeshan.png)
 
 <!-- PROFESSIONAL GREETING -->
 <div align="center" style="margin-bottom: 30px;">
@@ -28,7 +28,7 @@
         </ul>
       </td>
         <td width="40%" align="center" style="padding: 20px;">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZeeshanNazim&layout=compact&theme=dark&bg_color=0D1117&title_color=7B8FA1&text_color=7B8FA1&border_color=7B8FA1&hide_border=true" alt="Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan8201&layout=compact&theme=dark&bg_color=0D1117&title_color=7B8FA1&text_color=7B8FA1&border_color=7B8FA1&hide_border=true" alt="Top Languages" />
         </td>
     </tr>
   </table>
@@ -45,10 +45,10 @@
 <div align="center" style="margin: 40px 0;">
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
     <a href="https://github.com/zaim-abbasi">
-      <img width="49%" style="filter: drop-shadow(0 0 8px #7B8FA150);" src="https://github-readme-stats.vercel.app/api?username=MuhammadZeeshanNazim&show_icons=true&theme=dark&bg_color=0D1117&title_color=7B8FA1&icon_color=7B8FA1&text_color=7B8FA1&hide_border=true&card_width=495" />
+      <img width="49%" style="filter: drop-shadow(0 0 8px #7B8FA150);" src="https://github-readme-stats.vercel.app/api?username=zeeshan8201&show_icons=true&theme=dark&bg_color=0D1117&title_color=7B8FA1&icon_color=7B8FA1&text_color=7B8FA1&hide_border=true&card_width=495" />
     </a>
     <a href="https://github.com/Muhammad-Zeeshan10">
-      <img width="49%" style="filter: drop-shadow(0 0 8px #7B8FA150);" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadZeeshanNazim&theme=dark&background=0D1117&ring=7B8FA1&fire=7B8FA1&currStreakLabel=7B8FA1&sideLabels=7B8FA1&dates=7B8FA1&hide_border=true&card_width=495" />
+      <img width="49%" style="filter: drop-shadow(0 0 8px #7B8FA150);" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan8201&theme=dark&background=0D1117&ring=7B8FA1&fire=7B8FA1&currStreakLabel=7B8FA1&sideLabels=7B8FA1&dates=7B8FA1&hide_border=true&card_width=495" />
     </a>
   </div>
 </div>
